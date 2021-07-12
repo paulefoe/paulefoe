@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer at Star, consultant at <a href="https://postdata.ai/">PostData</a>
-
-If you ever need an AI solution feel free to hit us there.
+Software Engineer
 
 ### Blog
 https://paulefou.com/
