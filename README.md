@@ -1,8 +1,8 @@
-## Hey, I'm Paul
+## Hey, I'm Pavel
 
 Software Engineer specializing in backend development, cloud infrastructure, and scalable services.
 
-I've built high-load systems serving 200k+ users, optimized APIs from 8s to sub-second response times, and shipped payment integrations in fintech. I care about performance, reliability, and clean architecture.
+I've built high-load systems serving 200k+ users, optimized APIs, shipped payment integrations in fintech and much more. I care about performance, reliability, and clean architecture.
 
 I write about database optimization, open-source tooling, and productivity at [paulefou.com](https://paulefou.com/).
 
@@ -10,7 +10,7 @@ I write about database optimization, open-source tooling, and productivity at [p
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" alt="Python">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40px" alt="Rust">&nbsp;&nbsp;
+  <img src="https://rust-lang.org/logos/rust-logo-256x256.png" width="40px" alt="Rust">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px" alt="PostgreSQL">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40px" alt="FastAPI">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40px" alt="Kubernetes">&nbsp;&nbsp;
@@ -23,10 +23,6 @@ I write about database optimization, open-source tooling, and productivity at [p
 
 - [Fight bad internet habits with RSS](https://paulefou.com/blog/fight-bad-internet-habits-rss)
 - [Pass: The Standard Unix Password Manager](https://paulefou.com/blog/pass-standard-unix-password-manager/)
-
-### Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulefoe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/paulefoe)
 
 ---
 
