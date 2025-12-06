@@ -1,42 +1,33 @@
-<!--
-**paulefoe/paulefoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, I'm Paul
 
-Here are some ideas to get you started:
+Software Engineer specializing in backend development, cloud infrastructure, and scalable services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've built high-load systems serving 200k+ users, optimized APIs from 8s to sub-second response times, and shipped payment integrations in fintech. I care about performance, reliability, and clean architecture.
 
-Software Engineer
+I write about database optimization, open-source tooling, and productivity at [paulefou.com](https://paulefou.com/).
 
-### Blog
-https://paulefou.com/
+### What I work with
 
-<ul>
-  <li>RSS + mpv article to fight youtube addiction https://paulefou.com/blog/fight-bad-internet-habits-rss</li>
-  <li>Habits I want to develop as a Software Engineer https://paulefou.com/blog/habits-i-want-to-develop-as-software-engineer</li>
-  <li>My daily routine https://paulefou.com/blog/how-i-live-my-life-to-stay-productive</li>
-</ul>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" alt="Python">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40px" alt="Rust">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px" alt="PostgreSQL">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40px" alt="FastAPI">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40px" alt="Kubernetes">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40px" alt="Terraform">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40px" alt="Neovim">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40px" alt="Arch Linux">&nbsp;&nbsp;
+</p>
 
+### Recent writing
 
-### Things that I like:
+- [Fight bad internet habits with RSS](https://paulefou.com/blog/fight-bad-internet-habits-rss)
+- [Pass: The Standard Unix Password Manager](https://paulefou.com/blog/pass-standard-unix-password-manager/)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.freecodecamp.org/news/content/images/2021/01/rust-mascot.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://ucarecdn.com/710e7acb-230e-4342-a402-06b4296e886e/" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+### Stats
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulefoe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/paulefoe)
 
-## My activities
+---
 
-[![Paulefou's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulefoe&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<sub>Plain text enthusiast | Neorg | Arch btw</sub>
